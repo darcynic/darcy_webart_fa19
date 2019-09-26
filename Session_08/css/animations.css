@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    position: relative;
+    background-color: lightgreen;
+    top: 10vh;
+    width: 80vh;
+    height: 80vh;
+    margin: 0 auto;
+    border-radius: 20px;
+
+}
+
+.box {
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+    border-radius: unset;
+
+    animation-name: swag-rounded;
+    animation-duration: 10s;
+    animation-fill-mode: forwards;
+    animation-delay: 400ms;
+    animation-timing-function: ease-in;
+    animation-iteration-count: 6;
+
+}
+
+@keyframes swag-rounded {
+    0% {top: 0px; left: 0px; border-radius: 30%; <img src="/images/1.jpg">;}
+    15% {top:0px; left: 400px; border-radius: 25%; background-color: cornsilk}
+    50% {top: 400px; left: 400px; border-radius: 40%; background-color: black}
+    85% {top: 400px; left: 0px; border-radius: 20%} 
+     100% {top: 0px; left: 0px; border-radius: 40%}
+     
+}
+
+.blue{
+    background-image: ;
+}

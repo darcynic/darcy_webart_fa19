@@ -1,0 +1,106 @@
+in terminal, type touch then u can name a file and make a new file that way
+command K = clears history in terminal
+when entering a password on terminal you won’t be able to see the letters your typing but its typing
+
+to add new files to github
+make file in a folder that you’re aware of by (in terminal) typing git add -then the name of the file.txt-
+press enter
+then type touch newtext.txt
+press enter
+then type git status
+press enter
+then type git push
+press enter!
+
+START CODE IN VISUAL STUDIO CODE
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+    content="width=device-width,
+    initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Document</title>
+
+</head>
+<body>
+<br></br>
+<p>
+CONTent
+</p>
+
+
+</body>
+</html>
+
+display: flex; puts them all in order horizontal
+
+
+https://darcynic.github.io/darcy_webart_fa19/2ArtistWebsites/index2.html
+
+
+New file to Github after finding file
+Git Add .
+Git commit Do -m quotes
+Git push 
+
+command F to find  something on any website
+holding down command key while clicking on a link opens it up in a new page
+
+
+TO MAKE LOCAL SERVER
+Last login: Mon Sep  9 18:16:25 on ttys000
+MacBook-Pro-50:darcy_webart_fa19 Chaiandspice$ ls
+README.md	jangus.txt	newtext.txt	session_03
+MacBook-Pro-50:darcy_webart_fa19 Chaiandspice$ cd sission_03/
+-bash: cd: sission_03/: No such file or directory
+MacBook-Pro-50:darcy_webart_fa19 Chaiandspice$ python -m SimpleHTTPServer
+
+In Visual Studio code command+/ to write messages to yourself won’t show up on website
+
+3JS - 3D Animation
+Coding Train Youtube P5js
+
+Ryoji Ikea - musician internet artist
+
+aquasky musician
+
+to look at the code of any website view-source:http://***insertwebsite****
+
+Visual Code
+
+body{
+background-image:url(“images/myimage.pngORRR PUT A URL FOR THE IMAGE);
+width:100%;
+opacity: 75%;
+background-color: rgba(0,0,0,0,1)
+position :absolute;
+cursor:crosshair;
+border-radius:20px;
+font-size
+transition
+
+}
++++++ RECCSSSSS ++++++
+
+vektroid
+kalx electonic musician
+
+kyle Mcdonald - art tech artist
+XKCD.com - '''funny''''' web comics 
+password organizer
+
+teleportacia.org --amazinGGGG comic online web
+
+chinternetplus.com
+Victoria Vesna -tech biology
+starry night - alex galloway — stars databasing web art
+yagmur uyanik — sound artist
+can buyukberber - vr artist
+Shaye Saint John - persona that got hit by a car and replaced limbs with mannequin body shayesaintjohn.net/main.html
+netochka nezvanova - online persona never show real identity
+
+
+
